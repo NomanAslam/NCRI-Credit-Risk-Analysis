@@ -20,14 +20,18 @@
 - Standard Scaling
 
 ## Machine Learning Algorithms
--  Decision Tree Classifier
--  Naive_Bayes Algorithm
--  Random Forest Classifier
--  K-Neighbours
 -  Logistic Regression
+-  Decision Tree Classifier
+-  Random Forest Classifier
+-  Naive_Bayes Algorithm
+-  K-Neighbours
 -  Gradient Boosting Classifier
 
-## Steps followed
+## HyperParameter Tunning
 -  Randomized Search CV
+
+## Steps followed
+- **Data Collection** - Data Collection
+- **Data preparation** - Cleaning and Preparing data for Model Development
 
 
