@@ -32,6 +32,7 @@
 
 ## Steps followed
 - **Data Collection** - Data Collection
-- **Data preparation** - Cleaning and Preparing data for Model Development
+- **Data preparation** - Cleaning and Preparing data for Model Development <br>
+- **Algorithm Understanding** - Understanding of algorithm used
 
 
